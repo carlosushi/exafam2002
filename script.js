@@ -4,7 +4,7 @@
 
 // Fecha del evento.
 // Formato: AAAA-MM-DDTHH:MM:SS
-const EVENT_DATE = "2027-10-17T20:00:00";
+const EVENT_DATE = "2027-10-16T20:00:00";
 
 // IMPORTANTE:
 // Reemplaza este número por el WhatsApp oficial de la organización.
